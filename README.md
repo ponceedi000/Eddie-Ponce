@@ -56,9 +56,11 @@ I chose to get into Software Development because of the problem-solving/critical
 | <img src="images/aws.png" width=50/> AWS | <img src="images/next.png" width=50/> Netlify | <img src="images/heroku.png" width=50/> Heroku
 | <img src="images/git.png" width=50/> Git | <img src="images/github.png" width=50/> Github | <img src="images/linux.png" width=50/> Linux
 
-</div>
+
 
 ## Recent Projects and Activity
+  
+<div align="left">
 
 - **[CachExplorer](https://github.com/dudes-of-color)** | May 2022 
   * A geocaching web app that allows participants to use a GPS to hide and seek containers at specific locations marked by coordinates worldwide.
@@ -73,17 +75,34 @@ I chose to get into Software Development because of the problem-solving/critical
   *  This event finder web app utilizes the Ticketmaster API to fetch real-world data of events near the client's searched city.
   *  Built with MERN Stack, using React components to provide a clean UI and effectively communicate to the Node.js Express.js server and MongoDB. 
   
+</div>
+  
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ponceedi000)](https://github.com/ponceedi000/github-readme-stats)
 
-  ---------------------
-<h3>Fun Facts</h3>
-  - Coming soon
-
 ---------------------
+<h3>📚 Fun Facts and Hobbies:</h3>
+
+  <div align="left">
+  
+- I play 5 different instruments
+- I own my own business <a href="https://www.cik-studio.com/">CIK Studio</a>
+- Like to play video games on my PC
+- Love to go on adventures with my wife and black lab
+- Water IS wet (That right, I said it)
+  
+  </div>
+  
+ ---------------------
 
 <footer>
 <h3>📚 Resources Used to Build This Repo:</h3>
 
+  <div align="left">
+  
 - Header from <a href="https://www.canva.com/">Canva</a>
 - Social media favicons from <a href="https://icons8.com">Icons8</a>
+- README Statistics from <a href="https://github.com/anuraghazra/github-readme-stats#common-options">anuraghazra</a>
+  
+  </div>
 </footer>
+</div>
