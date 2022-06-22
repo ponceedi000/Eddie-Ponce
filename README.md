@@ -53,7 +53,9 @@ I chose to get into Software Development because of the problem-solving/critical
 | <img src="images/git.png" width=50/> Git | <img src="images/github.png" width=50/> Github | <img src="images/linux.png" width=50/> Linux
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ponceedi000&layout=compact&theme=midnight-purple&card_width=800&langs_count=10)](https://github.com/HexxKing/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ponceedi000&layout=compact&theme=midnight-purple&card_width=800&langs_count=10)](https://github.com/ponceedi000/github-readme-stats)
+  
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ponceedi000)](https://github.com/ponceedi000/github-readme-stats)
 </div>
   ---------------------
 <h3>Fun Facts</h3>
