@@ -71,7 +71,7 @@ I chose to get into Software Development because of the problem-solving/critical
   * Built with Python 3.9, Zoom API, and Google Sheets API.
 
 
-- **[Trip Perfect](https://github.com/301d78-final-project)** | May 2022 
+- **[Trip Perfect](https://github.com/301d78-final-project)** | Oct 2021 
   *  This event finder web app utilizes the Ticketmaster API to fetch real-world data of events near the client's searched city.
   *  Built with MERN Stack, using React components to provide a clean UI and effectively communicate to the Node.js Express.js server and MongoDB. 
   
