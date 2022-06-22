@@ -29,14 +29,14 @@ I chose to get into Software Development because of the problem-solving/critical
 ---------------------
 <div align="center">  
   
- ## My Statistics
+ ## :bar_chart: My Statistics 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ponceedi000&count_private=true&show_icons=true&theme=radical&card_width=750)
   
 
 
 
-## 🐍 Languages 🐍
+## 🐍 Languages 
 
 |  |  |  |  |
 | ----------- | ----------- | ----------- | ----------- |
@@ -46,7 +46,7 @@ I chose to get into Software Development because of the problem-solving/critical
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ponceedi000&layout=compact&theme=midnight-purple&card_width=750&langs_count=10)](https://github.com/ponceedi000/github-readme-stats)
 
-## Tools
+## :wrench: Tools 
 
 | | | |
 | ----------- | ----------- | ----------- |
@@ -58,7 +58,7 @@ I chose to get into Software Development because of the problem-solving/critical
 
 
 
-## Recent Projects and Activity
+## :zap: Recent Projects and Activity
   
 <div align="left">
 
@@ -80,7 +80,7 @@ I chose to get into Software Development because of the problem-solving/critical
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ponceedi000)](https://github.com/ponceedi000/github-readme-stats)
 
 ---------------------
-<h3>📚 Fun Facts and Hobbies:</h3>
+<h3>:bulb:Fun Facts and Hobbies:</h3>
 
   <div align="left">
   
@@ -95,13 +95,14 @@ I chose to get into Software Development because of the problem-solving/critical
  ---------------------
 
 <footer>
-<h3>📚 Resources Used to Build This Repo:</h3>
+<h3>:books: Resources Used to Build This Repo:</h3>
 
   <div align="left">
   
 - Header from <a href="https://www.canva.com/">Canva</a>
 - Social media favicons from <a href="https://icons8.com">Icons8</a>
 - README Statistics from <a href="https://github.com/anuraghazra/github-readme-stats#common-options">anuraghazra</a>
+- Emojis from <a href="https://www.webfx.com/tools/emoji-cheat-sheet/">webfx.com</a>
   
   </div>
 </footer>
