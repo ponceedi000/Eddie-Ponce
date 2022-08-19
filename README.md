@@ -33,6 +33,7 @@ I chose to get into Software Development because of the problem-solving/critical
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ponceedi000&count_private=true&show_icons=true&theme=radical&card_width=750)
   
+<img width=750 src="https://wakatime.com/share/@ponceedi000/86e84443-248b-48fb-9c9a-5099a14d69ca.svg"/>
 
 
 
@@ -77,7 +78,6 @@ I chose to get into Software Development because of the problem-solving/critical
   
 </div>
   
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ponceedi000)](https://github.com/ponceedi000/github-readme-stats)
 
 ---------------------
 <h3>:bulb:Fun Facts and Hobbies:</h3>
